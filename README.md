@@ -1,12 +1,12 @@
-## Mateus Santos 👋
+# Mateus Santos 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreira para a área de Tecnologia.
 
-Estou desenvolvendo meus conhecimentos em programação e desenvolvimento web através de estudos, projetos práticos e experiências profissionais. Meu objetivo é transformar conhecimento em soluções reais e continuar evoluindo como desenvolvedor.
+Estou desenvolvendo meus conhecimentos em programação e desenvolvimento web por meio de estudos, projetos práticos e experiências profissionais. Meu objetivo é transformar conhecimento em soluções reais e continuar evoluindo como desenvolvedor.
 
-Atualmente, estou focado em **HTML, CSS, JavaScript, Git e GitHub**, além de continuar ampliando meus conhecimentos em desenvolvimento de sistemas.
+Atualmente, estou focado em **HTML, CSS, JavaScript, Git e GitHub**, além de ampliar meus conhecimentos em desenvolvimento de sistemas, análise de dados e ferramentas de tecnologia.
 
 ## 🚀 Em desenvolvimento
 
@@ -26,18 +26,19 @@ Atualmente, estou focado em **HTML, CSS, JavaScript, Git e GitHub**, além de co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 ## 📌 Projetos
 
-### 🌐 Meu Portfólio
+### 🌐 Meu Portfólio Profissional
 
-Meu portfólio profissional desenvolvido para apresentar minha trajetória, conhecimentos, projetos e evolução na área de Tecnologia.
+Projeto desenvolvido para apresentar minha trajetória profissional, formação, conhecimentos, projetos e evolução na área de Tecnologia.
 
 **Tecnologias:** HTML • CSS • JavaScript
 
 🔗 [Acessar Portfólio](https://mateussnts007.github.io/mateus-santos-portfolio/)
 
-🔗 [Repositório no GitHub](https://github.com/mateussnts007)
+🔗 [Código-fonte no GitHub](https://github.com/mateussnts007/mateus-santos-portfolio)
 
 ---
 
@@ -45,7 +46,7 @@ Meu portfólio profissional desenvolvido para apresentar minha trajetória, conh
 
 Atualmente atuo como **Assistente Comercial II na Claro Brasil**, onde desenvolvo experiência profissional com processos comerciais, análise de indicadores e utilização de ferramentas corporativas.
 
-Minha experiência profissional também contribui para minha transição para Tecnologia, unindo conhecimento de negócio, análise de dados e desenvolvimento de soluções.
+Minha experiência profissional também contribui para minha transição para Tecnologia, unindo conhecimentos de negócio, análise de dados e desenvolvimento de soluções.
 
 ## 🎯 Objetivos
 
@@ -56,19 +57,19 @@ Busco minha primeira oportunidade profissional diretamente na área de Tecnologi
 * Analista de Sistemas Júnior
 * Analista de Dados Júnior
 
-Estou construindo minha trajetória através de estudos contínuos, projetos práticos e desenvolvimento de novas habilidades.
+Estou construindo minha trajetória por meio de estudos contínuos, projetos práticos e desenvolvimento de novas habilidades.
 
 ## 📚 Formação
 
 🎓 **Análise e Desenvolvimento de Sistemas**
 
-📜 Cursos e certificações em:
+📜 **Cursos e certificações:**
 
-* Pacote Office
-* Assistente Administrativo
-* Power BI
-* Educação Financeira
-* Estratégia de Negócios
+* Pacote Office — Fundação Bradesco
+* Assistente Administrativo — IFRS
+* Fundamentos do Power BI — Fundação Bradesco
+* Educação Financeira — Fundação Bradesco
+* Estratégia de Negócios — Fundação Bradesco
 
 ## 📫 Contato
 
