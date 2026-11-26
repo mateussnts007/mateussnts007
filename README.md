@@ -36,7 +36,7 @@ Projeto desenvolvido para apresentar minha trajetória profissional, formação,
 
 **Tecnologias:** HTML • CSS • JavaScript
 
-🔗 [Acessar Portfólio](https://mateussnts007.github.io/mateus-santos-portfolio/)
+🔗 [Acessar Portfólio](https://mateus-portfolio-v2.vercel.app/#inicio)
 
 🔗 [Código-fonte no GitHub](https://github.com/mateussnts007/mateus-santos-portfolio)
 
