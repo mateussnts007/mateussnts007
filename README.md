@@ -1,90 +1,70 @@
 # Mateus Santos 👋
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor**
+### Profissional da área comercial | Tecnologia | Desenvolvimento Web
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreira para a área de Tecnologia.
+Olá! Sou Mateus Santos, profissional da área comercial e entusiasta de tecnologia, com interesse em desenvolvimento de sistemas, desenvolvimento web e análise de dados.
 
-Estou desenvolvendo meus conhecimentos em programação e desenvolvimento web por meio de estudos, projetos práticos e experiências profissionais. Meu objetivo é transformar conhecimento em soluções reais e continuar evoluindo como desenvolvedor.
+Minha trajetória combina experiência corporativa, visão de negócio, análise de indicadores e aprendizado contínuo em tecnologia.
 
-Atualmente, estou focado em **HTML, CSS, JavaScript, Git e GitHub**, além de ampliar meus conhecimentos em desenvolvimento de sistemas, análise de dados e ferramentas de tecnologia.
+Atualmente, busco ampliar meus conhecimentos e transformar o que aprendo em projetos práticos, soluções e experiências que contribuam para minha evolução profissional.
 
-## 🚀 Em desenvolvimento
+---
 
-* 🌐 Desenvolvimento Web
-* 💻 HTML, CSS e JavaScript
-* 🔧 Git e GitHub
-* 📚 Lógica de Programação
-* 🗄️ Fundamentos de Banco de Dados
-* 📊 Análise de Dados e Power BI
-* 🎓 Análise e Desenvolvimento de Sistemas
+## 🚀 Sobre mim
 
-## 🛠️ Tecnologias
+- 💼 Assistente Comercial II na Claro Brasil.
+- 💻 Desenvolvendo projetos com React, JavaScript, HTML e CSS.
+- 📊 Experiência com análise de indicadores, Excel e Power BI.
+- 🔧 Conhecimentos em Git, GitHub e desenvolvimento web.
+- 🎓 Formação na área de Análise e Desenvolvimento de Sistemas.
+- 🎯 Objetivo: desenvolver minha carreira profissional na área de Tecnologia.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+## 🛠️ Tecnologias e ferramentas
 
-## 📌 Projetos
+**Desenvolvimento Web**
 
-### 🌐 Meu Portfólio Profissional
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Projeto desenvolvido para apresentar minha trajetória profissional, formação, conhecimentos, projetos e evolução na área de Tecnologia.
+**Ferramentas e análise de dados**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FA6D6?style=for-the-badge&logo=sap&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🌐 Projetos em destaque
+
+### ⏭️ Portfólio Profissional V2
+
+Minha versão mais recente, reconstruída com uma nova identidade visual, recursos interativos, animações e uma experiência responsiva.
+
+**Tecnologias:** React • Vite • JavaScript • CSS
+
+🔗 **[ACESSAR PORTFÓLIO V2](https://mateus-portfolio-v2.vercel.app/)**
+
+🔗 [Repositório do projeto](https://github.com/mateussnts007/mateus-portfolio-v2)
+
+### ⏮️ Primeiro Portfólio
+
+Meu primeiro projeto de apresentação profissional, desenvolvido como parte dos meus primeiros passos no desenvolvimento web.
 
 **Tecnologias:** HTML • CSS • JavaScript
 
-🔗 [Acessar Portfólio](https://mateus-portfolio-v2.vercel.app/#inicio)
+🔗 [Acessar primeira versão](https://mateussnts007.github.io/mateus-santos-portfolio/)
 
-🔗 [Código-fonte no GitHub](https://github.com/mateussnts007/mateus-santos-portfolio)
-
----
-
-## 💼 Experiência
-
-Atualmente atuo como **Assistente Comercial II na Claro Brasil**, onde desenvolvo experiência profissional com processos comerciais, análise de indicadores e utilização de ferramentas corporativas.
-
-Minha experiência profissional também contribui para minha transição para Tecnologia, unindo conhecimentos de negócio, análise de dados e desenvolvimento de soluções.
-
-## 🎯 Objetivos
-
-Busco minha primeira oportunidade profissional diretamente na área de Tecnologia, com interesse em posições como:
-
-* Desenvolvedor Júnior
-* Desenvolvedor Web
-* Analista de Sistemas Júnior
-* Analista de Dados Júnior
-
-Estou construindo minha trajetória por meio de estudos contínuos, projetos práticos e desenvolvimento de novas habilidades.
-
-## 📚 Formação
-
-🎓 **Análise e Desenvolvimento de Sistemas**
-
-📜 **Cursos e certificações:**
-
-* Pacote Office — Fundação Bradesco
-* Assistente Administrativo — IFRS
-* Fundamentos do Power BI — Fundação Bradesco
-* Educação Financeira — Fundação Bradesco
-* Estratégia de Negócios — Fundação Bradesco
-
-## 📫 Contato
-
-🌐 **Portfólio:**
-https://mateussnts007.github.io/mateus-santos-portfolio/
-
-💼 **LinkedIn:**
-[Meu LinkedIn](https://www.linkedin.com/)
-
-📸 **Instagram:**
-[@_.teeussds](https://www.instagram.com/_.teeussds/)
-
-📧 **E-mail:**
-[contato.mtssnts@gmail.com](mailto:contato.mtssnts@gmail.com)
+🔗 [Repositório do primeiro projeto](https://github.com/mateussnts007/mateus-santos-portfolio)
 
 ---
 
-⭐ *Em constante aprendizado, construindo projetos e evoluindo um código de cada vez.*
+## 💼 Experiência profissional
+
+### Claro Brasil —
