@@ -64,7 +64,3 @@ Meu primeiro projeto de apresentação profissional, desenvolvido como parte dos
 🔗 [Repositório do primeiro projeto](https://github.com/mateussnts007/mateus-santos-portfolio)
 
 ---
-
-## 💼 Experiência profissional
-
-### Claro Brasil —
